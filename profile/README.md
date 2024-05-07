@@ -1,5 +1,3 @@
-![banner-de-unkwords](<unkwords-banner.png>)
-
 # Unkwords | Encuentra esa palabra que tal vez no conocías
 El proyecto de **diccionario interactivo** más ambicioso de la web.
 
